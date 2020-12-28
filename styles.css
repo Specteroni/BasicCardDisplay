@@ -1,0 +1,21 @@
+.top-rect {
+    height: 400px;
+    width: 300px;
+    background: orange;
+    display: inline-block;
+    vertical-align: top;
+    color: black;
+    text-align: center;
+    font-size: 40px;
+}
+
+.bottom-rect {
+    height: 400px;
+    width: 300px;
+    background: blue;
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
