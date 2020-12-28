@@ -1,6 +1,6 @@
 .top-rect {
-    height: 400px;
-    width: 300px;
+    height: 375px;
+    width: 275px;
     background: orange;
     display: inline-block;
     vertical-align: top;
@@ -10,8 +10,8 @@
 }
 
 .bottom-rect {
-    height: 400px;
-    width: 300px;
+    height: 375px;
+    width: 275px;
     background: blue;
     display: inline-block;
     vertical-align: top;
