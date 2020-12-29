@@ -1,6 +1,72 @@
+input[type=number] {
+    margin: auto;
+    width: 90%;
+    height: auto;
+    font-size: 60%;
+    text-align: center;
+    background: transparent;
+    border: none;
+}
+
+
+#white-font {
+    color: white;
+}
+
+.name-rect {
+    height: 40px;
+    width: 8%;
+    background: rgb(0, 255, 13);
+    display: inline-block;
+    vertical-align: top;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+.score-rect{
+    height: 40px;
+    width: 8%;
+    background: rgb(0, 255, 13);
+    display: inline-block;
+    vertical-align: center;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+.player1 {
+    background: rgb(0, 255, 13);
+    color: black;
+}
+.player2{
+    background: rgb(255, 0 , 0);
+    color: white;
+}
+
+.player3 {
+    background: rgb(0, 0, 255);
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+.player4 {
+    background: rgb(0, 0, 0);
+    color: white;
+
+}
+
+.player5 {
+    background: rgb(255, 255, 0);
+    color: black;
+}
+
+.player6{
+    background: rgb(255, 0, 255);
+    color: white;
+}
+
 .top-rect {
-    height: 375px;
-    width: 275px;
+    height: 350px;
+    width: 15%;
     background: orange;
     display: inline-block;
     vertical-align: top;
@@ -10,8 +76,8 @@
 }
 
 .bottom-rect {
-    height: 375px;
-    width: 275px;
+    height: 350px;
+    width: 15%;
     background: blue;
     display: inline-block;
     vertical-align: top;
